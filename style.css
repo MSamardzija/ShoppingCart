@@ -145,6 +145,7 @@ body {
 .product-img {
   display: block;
   width: 100%;
+  max-height: 300px;
   min-height: 12rem;
   transition: var(--mainTransition);
 }
@@ -257,6 +258,17 @@ body {
 .cart-footer h3 {
   text-transform: capitalize;
   margin-bottom: 1rem;
+}
+
+.clear-cart-banner-btn {
+  padding: 15px 40px;
+  color: #000;
+  background-color: #f09d51;
+  text-transform: uppercase;
+  border: 0;
+  font-weight: 600;
+  cursor: pointer;
+  letter-spacing: var(--mainSpacing);
 }
 
 /* --------------- End of Cart ---------------- */

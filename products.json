@@ -3,65 +3,65 @@
     {
       "sys": { "id": "1" },
       "fields": {
-        "title": "queen panel bed",
-        "price": 10.99,
-        "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+        "title": "Samsung S21 5G",
+        "price": 1000,
+        "image": { "fields": { "file": { "url": "./images/S21p.jpg" } } }
       }
     },
     {
       "sys": { "id": "2" },
       "fields": {
-        "title": "king panel bed",
-        "price": 12.99,
-        "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
+        "title": "Samsung S20",
+        "price": 800.59,
+        "image": { "fields": { "file": { "url": "./images/S20.jpg" } } }
       }
     },
     {
       "sys": { "id": "3" },
       "fields": {
-        "title": "single panel bed",
-        "price": 12.99,
-        "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
+        "title": "Samsung S10",
+        "price": 500.99,
+        "image": { "fields": { "file": { "url": "./images/S10.jpg" } } }
       }
     },
     {
       "sys": { "id": "4" },
       "fields": {
-        "title": "twin panel bed",
-        "price": 22.99,
-        "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
+        "title": "Iphone 13",
+        "price": 1150.99,
+        "image": { "fields": { "file": { "url": "./images/Iphone13.jpg" } } }
       }
     },
     {
       "sys": { "id": "5" },
       "fields": {
-        "title": "fridge",
-        "price": 88.99,
-        "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
+        "title": "Iphone 12",
+        "price": 880,
+        "image": { "fields": { "file": { "url": "./images/iphone12.jpg" } } }
       }
     },
     {
       "sys": { "id": "6" },
       "fields": {
-        "title": "dresser",
-        "price": 32.99,
-        "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
+        "title": "Iphone X",
+        "price": 500.78,
+        "image": { "fields": { "file": { "url": "./images/IphoneX.jpg" } } }
       }
     },
     {
       "sys": { "id": "7" },
       "fields": {
-        "title": "couch",
-        "price": 45.99,
-        "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+        "title": "Huawei P30 PRO",
+        "price": 450.99,
+        "image": { "fields": { "file": { "url": "./images/Hua30.jpg" } } }
       }
     },
     {
       "sys": { "id": "8" },
       "fields": {
-        "title": "table",
-        "price": 33.99,
-        "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+        "title": "Nokia Beast",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/Nokiaa.jpg" } } }
       }
     }
   ]
