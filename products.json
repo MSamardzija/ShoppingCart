@@ -37,7 +37,7 @@
       "fields": {
         "title": "Iphone 12",
         "price": 880,
-        "image": { "fields": { "file": { "url": "./images/iphone12.jpg" } } }
+        "image": { "fields": { "file": { "url": "./images/Iphone12.jpg" } } }
       }
     },
     {
